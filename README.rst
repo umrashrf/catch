@@ -16,7 +16,7 @@ Catch
 
 
 
-Web crawler with built in parsers usng latest Python technologies
+Web crawler with built in parsers using latest Python technologies
 
 
 * Free software: GNU General Public License v3
